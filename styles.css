@@ -1,3 +1,13 @@
 body {
   background: orange;
 }
+th,
+td,
+table {
+  border: 2px black dashed;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 20px;
+}
